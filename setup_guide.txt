@@ -1,0 +1,18 @@
+
+Homework Helper Setup Guide
+
+Step 1: Backend Setup
+- Use the backend folder to deploy the API.
+- Recommended: Deploy on Railway or any FastAPI-compatible host.
+- Install dependencies: fastapi, uvicorn
+
+Step 2: Frontend Setup
+- Use Expo CLI or Expo Go app.
+- Run 'npm install' in frontend folder.
+- Replace backend URL in 'frontend/services/api.js'.
+
+Step 3: Deployment
+- Deploy backend and frontend separately.
+- Connect frontend to backend by updating the API URL.
+
+For detailed help, contact support.
